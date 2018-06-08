@@ -5,4 +5,4 @@ This notebook generates a vital sign barcodes using [Data](https://climate.nasa.
 ![Climate Barcode](images/Climate_Barcode.png)
 
 
-![Greenland Ice](images/Antarctic_Mass.png)
+![Greenland Ice](images/Antarctica_Mass.png)
